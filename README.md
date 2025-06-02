@@ -66,6 +66,7 @@ To explore the Titanic dataset using Python libraries such as **Pandas**, **Matp
 
 🔗 Submission This repository contains:
 
-- ✅ `Titanic_EDA.ipynb` (Jupyter Notebook with code and visualizations)
-- ✅ `train.csv` (dataset)
+- ✅ `Titanic_EDA(1).ipynb` (Jupyter Notebook with code and visualizations)
+- ✅ `titanic.zip` (dataset)
+- ✅ `Task5_Report.pdf` (Report with Insights)
 - ✅ `README.md` (This file)
